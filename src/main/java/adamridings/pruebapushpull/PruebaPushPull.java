@@ -11,6 +11,6 @@ package adamridings.pruebapushpull;
 public class PruebaPushPull {
 
     public static void main(String[] args) {
-        System.out.println("Esta lloviendo");
+        System.out.println("ha salido el sol");
     }
 }
